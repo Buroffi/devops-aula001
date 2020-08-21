@@ -1,1 +1,3 @@
-# devops-aula001
+# nome: Lucas
+# Empresa: Softtek
+# Analista de BI
